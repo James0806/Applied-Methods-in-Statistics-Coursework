@@ -23,6 +23,5 @@ confint(line5, level=0.99)
 summary(line5)
 
 
-
+?ScheffeTest
 ScheffeTest(line5, g = y)
-?ScheffeTest            
